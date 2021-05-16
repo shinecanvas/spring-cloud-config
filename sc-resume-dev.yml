@@ -1,4 +1,4 @@
 mom51:
-  message: hello shinecanvas 1400
+  message: hello shinecanvas 1500
 mysql:
-  url: dev-http://localhost:3306/db1400
+  url: dev-http://localhost:3306/db1500
