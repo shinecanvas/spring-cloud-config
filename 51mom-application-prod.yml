@@ -1,1 +1,4 @@
-
+mom51:
+  message: hello shinecanvas 1600
+mysql:
+  url: dev-http://localhost:3306/db1600
